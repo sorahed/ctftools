@@ -4,13 +4,7 @@
   <p>script to help with your CTF'S</i></p>
 <div>
   
-## How to install:
-- Clone this repository: ```git clone https://github.com/sofxwy/ctftools```
+## Use python3 main.py
 
-- Install python3 
-  - Linux
-    - ```apt-get install python3```
-    - ```chmod +x *```
-    - Finished!
 
   
